@@ -1,0 +1,43 @@
+body.azul{
+    background-color: rgb(9, 169, 243);
+}
+body.vermelho{
+    background-color: red;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+  }
+        
+  .ctnFlex{
+    display: flex;
+    justify-content: space-between;
+  }
+   div.esquerda {
+          height: 90vw;
+          width: 50vw;     
+          background-color: rgb(9, 169, 243);
+      }
+  
+      div.direita {
+          height: 90vw;
+          width: 50vw;  
+          background-color:red;
+      }
+  
+      a{
+        font-size: 3vw;
+      }
+  
+      div.rodape{
+        height: 10vw;
+          width: 50vw;     
+          background-color: rgb(9, 169, 243);
+      }
+  
+      div.rodape2{
+        height: 10vw;
+          width: 50vw;     
+          background-color: red; 
+      }
